@@ -25,7 +25,7 @@ The credits screen show the name of the developers. In this case its Iván Risue
 ![Credits](https://github.com/Xasyo/Castlevania-Symphony-of-the-Night-Knight/assets/93864076/d046a12d-f28e-4d7c-a804-43ac86f7c432)
 
 
-The game consists of three levels, each of them having different enemys. In order to complete a level the player needs to step on every tile in order to break it. When all the tiles are stepped on, a key will spawn in the map. As soon as the player collects it, the door will open allowing to advance to the next level. 
+The game consists of three levels, each of them having different enemys. In order to complete a level the player needs to step on every tile in order to break it and adds 10 points to the player score. When all the tiles are stepped on, a key will spawn in the map. As soon as the player collects it, the door will open allowing to advance to the next level and adding 10 points per remaining second. 
 All three levels have the same objects that will spawn periodically:
 - Stopwatch: Prevents the enemys from moving and the time from passing.
 - Heart: Automatically adds a heart to the player health.
