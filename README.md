@@ -23,6 +23,31 @@ The credits screen show the name of the developers. In this case its Iván Risue
 ![Credits](https://github.com/Xasyo/Castlevania-Symphony-of-the-Night-Knight/assets/93864076/d046a12d-f28e-4d7c-a804-43ac86f7c432)
 
 
-The game consists of three levels, each of them having different enemys. In order to complete a level the player needs to step on every tile in order to break it. When all the tiles are stepped on, a key will spawn in the map. As soon as the player collects it, the door will open allowing to advance to the next level. All three levels have the same objects that will spawn periodically:
+The game consists of three levels, each of them having different enemys. In order to complete a level the player needs to step on every tile in order to break it. When all the tiles are stepped on, a key will spawn in the map. As soon as the player collects it, the door will open allowing to advance to the next level. 
+All three levels have the same objects that will spawn periodically:
+- Stopwatch: Prevents the enemys from moving and the time from passing.
+- Heart: Automatically adds a heart to the player health.
+- Gem: Adds a gem to the player gems. It's a collectable.
+- Key: Opens the door, allowing the player to advance to the next stage.
+
+Stage01 is the easiest stage of the game having the tipicall 2D game enemy that moves back and forth repeatedly.
+
+![Level1](https://github.com/Xasyo/Castlevania-Symphony-of-the-Night-Knight/assets/93864076/71bb9a0b-5f2f-4189-8168-4b5af88e6170)
+
+
+
+Stage02 has the slime, an enemy that repairs the tiles and goes from top to bottom respawning on top once it has reached the bottom of the level.
+
+![Level02](https://github.com/Xasyo/Castlevania-Symphony-of-the-Night-Knight/assets/93864076/bef11825-b75b-4ef5-a97b-4f64e24e3a7f)
+
+
+Stage03 combines the skeletons in Stage01 together with vampires. Vampires act similar to skeletons but at a certain point start flying, allowing them to reack different places of the level.
+
+![Level03](https://github.com/Xasyo/Castlevania-Symphony-of-the-Night-Knight/assets/93864076/162619d4-fc07-42be-84f9-798cc86cf13f)
+
+
+There is a Game Over screen in case the player dies.
+
+![Game over](https://github.com/Xasyo/Castlevania-Symphony-of-the-Night-Knight/assets/93864076/cf4a24de-1c0c-4870-8049-ce58a6ea6262)
 
 
