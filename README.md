@@ -1,5 +1,7 @@
 # Castlevania-Symphony-of-the-Night-Knight
-2D Game created using OpenGL based on MSX's game Night Knight using Castlevania Symphony of the Night resources. Joc fet per l'assignatura de Videojocs del GEI a la FIB. Mark: 10.
+2D Game created using OpenGL based on MSX's game Night Knight using Castlevania Symphony of the Night resources. Joc fet per l'assignatura de Videojocs del GEI a la FIB. 
+
+Mark: 10.
 
 If you want to play the game all you need to do is download the Binary folder and run the aplication file iniside.
 
